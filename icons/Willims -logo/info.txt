@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: HACKED
+font link: http://watchdogsfont.com
+font author: David Libeau
+font author site: https://davidlibeau.fr/
+
+
+icon designer: Vectors Market
+icon designer link: /vectorsmarket
+        
+
+fontColor: {"hex":"#d84450"}
+bgColor: {"hex":"#FBF3EF"}
+iconColor: {"hex":"#d84450"}
+
+      
