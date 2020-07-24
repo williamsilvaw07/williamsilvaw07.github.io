@@ -105,7 +105,7 @@
 margin-top: 25%
     }
     .home-content{
-        
+
     }
     header{
        margin-top: -10%
@@ -121,7 +121,7 @@ margin-top: 25%
 margin-top: 60%
     }
     .home-content{
-        
+
     }
     header{
        margin-top: -10%
@@ -134,27 +134,27 @@ margin-top: 60%
 
 
     .home-content  {
-        
+
 margin-top: -9% !important
     }
-    
+
     header{
        margin-top: -10%
     }
-   
-    
+
+
 }
 
 @media only screen and (max-width: 1280px) {
 
 
     .home-content  {
-        
+
 margin-top: 11% !important
     }
-   
-   
-    
+
+
+
 }
 
 
@@ -162,26 +162,26 @@ margin-top: 11% !important
 
 
     .home-content  {
-        
+
 margin-top: 11% !important
     }
-   
-   
-    
+
+
+
 }
 
 @media only screen and (max-width: 1440px) {
 
 
     .home-content  {
-        
+
 margin-top: -20% !important
     }
-   
+
     .middel_text{
-        margin-top: 20% 
+        margin-top: 20%
     }
-    
+
 }
 
 @media (min-width:1100px) {
@@ -353,7 +353,7 @@ margin-left: 1%;
     .bnt {
 
 
-       
+
     }
 }
 
@@ -373,6 +373,23 @@ margin-left: 1%;
     }
 }
 
+
+
+@media (max-width:380px) {
+    .row {
+
+        margin-top: 50%
+    }
+
+    .middel_title{
+      margin-top: -30%
+    }
+    .left_grid_right{
+
+      font-size: 80%;
+  }
+}
+
 @media (max-width:360px) {
     .home-content {
         width: 100%;
@@ -384,7 +401,7 @@ margin-left: 1%;
 @media (max-width:420px) {
     .bnt {
 
-      
+
     }
 }
 
@@ -567,31 +584,10 @@ margin-left: 1%;
 
     }
         .home-content  {
-        
-margin-top: 11% !important
-    }
-    input[id=email] {
-    
-   display: inline-block;
-    float: right;
-    padding-left: 10px;
-    width: 45%;
-    height: 30px;
-   position: relative;
-    top: -44px;
-        right: -14px
-}
-   
-   
-    select[id=serivce] {
-    width: 104%;
-    
-  
-}input[type=submit] {
-    font-size: 14px;
-    width: 101%;
 
-    
+margin-top: 11% !important
+
+
 
 }
 
@@ -611,6 +607,7 @@ margin-top: 11% !important
 
 
     }
+
 }
 
 @media (max-width:1200px) {
@@ -662,7 +659,16 @@ margin-top: 11% !important
         grid-template-columns: repeat(1, 1fr);
 
 
-    }
+
+}
+input[id=email] {
+
+right:0px;
+top: -36px;
+width: 53%
+
+}
+
 }
 
 @media (max-width:450px) {
