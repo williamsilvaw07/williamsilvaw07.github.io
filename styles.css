@@ -514,15 +514,17 @@ h6 {
     grid-gap: 8px;
     height: 80%;
     width: 100%;
+    margin: 0 50px!important;
 
 }
 
 
 .grid_pictures img {
 
-    height: 100%;
-    width: 100%;
-
+    height: 90%;
+    width: 90%;
+max-height: 400px;
+    max-width: 450px
 
 
 
